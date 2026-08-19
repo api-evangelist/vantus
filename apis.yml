@@ -36,7 +36,7 @@ x-identity:
   note: Mayfield portfolio permalink /portfolio/vantus/ renders post "Vantive" (Milestone,
     Enterprise, "Call center software leaders."); the harvester captured the permalink slug as the
     company name. Vantive merged with PeopleSoft in 1999; no current web or API presence.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
